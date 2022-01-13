@@ -61,7 +61,7 @@ function draw() {
       fruitGroup.destroyEach();
       
       // knifeSwooshSound.play();
-       knifeSwooshSound.play;
+       knifeSwooshSound.play();
       // knifeSwooshSound();
       // knifeSwooshSoundplay();
 
